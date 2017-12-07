@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "Pages/index/index",
+    "Pages/me/index",
+    "Pages/query/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "我日"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "Pages/index/index",
+        "text": "首页",
+        "iconPath": "Img/icon/tab2.png",
+        "selectedIconPath": "Img/icon/tab1.png"
+      },
+      {
+        "pagePath": "Pages/me/index",
+        "text": "我的",
+        "iconPath": "Img/icon/tab4.png",
+        "selectedIconPath": "Img/icon/tab3.png"
+      }
+    ],
+    "color": "#858585",
+    "selectedColor": "#008842",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff"
+  }
+}

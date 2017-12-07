@@ -1,0 +1,3 @@
+<view class="indexHeader">
+    <navigator class='query-btn' url="../query/index"><image src='/Img/icon/query.png' class='index-header-query'></image></navigator>
+</view>
